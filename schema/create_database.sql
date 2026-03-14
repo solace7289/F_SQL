@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXITTS F_SQL;
+
+USE F_SQL;
+
+
+
+
+
+
